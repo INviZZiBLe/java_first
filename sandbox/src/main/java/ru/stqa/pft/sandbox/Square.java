@@ -7,7 +7,11 @@ public class Square {
 
   public double l;
 
-  public Square (double len){
-    this.l = len;
+  public Square (double l){
+    this.l = l;
   }
+
+  public double area (Square s){ //дописал подсчет площади квадрата, так как без него не запускался тест
+    return this.l * l;
+}
 }
