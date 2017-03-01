@@ -14,3 +14,17 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 .idea/workspace.xml
+
+.idea/compiler.xml
+
+.idea/modules.xml
+
+.idea/gradle.xml
+
+.idea/modules/pokupon_qa_main.iml
+
+.idea/modules/pokupon_qa.iml
+
+.idea/vcs.xml
+
+.idea/modules/pokupon_qa_test.iml
